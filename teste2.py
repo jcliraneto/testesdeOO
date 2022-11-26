@@ -20,8 +20,3 @@ class DadosPessoais:
         print('**** DADOS FORNECIDOS ****')
         print(f'NOME: {self.nome}\nIDADE: {self.idade} anos\nLOCAL DE NASCIMENTO: {self.local_nascimento}')
 
-
-p1 = DadosPessoais()
-p1.entradadados()
-p1.formulario()
-p1.teste_idade()
